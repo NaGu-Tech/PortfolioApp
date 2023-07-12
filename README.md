@@ -1,6 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PortfolioApp:
+This Project is designed in such a way that it allows users registration, login, account update and deletion.
+## Features:
+It also allows users to read posts, comments on posts, and also make their own posts and manage what they post.
+### More:
+Its gives' room for posts identification.
+Though it's a nice project, it's yet to be completed due to some unforeseen challenges.
+
+
+
+The project is built using [Next.js](https://nextjs.org/) bootstrapped with [`create-next-app`].
 
 ## Getting Started
+for those who wants to give it a shot.
 
 First, run the development server:
 
